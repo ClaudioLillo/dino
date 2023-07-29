@@ -1,0 +1,2 @@
+# dino
+Minimalistic DDNS
